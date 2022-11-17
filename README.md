@@ -2,7 +2,8 @@
 # IBM-Project-3863-1658667538
 
 # AI BASED DISCOURSE FOR BANKING INDUSTRY
--[Demo Link](www.google.com)
+- [Demo Website Link](www.google.com)
+- [Demo Video Link](www.google.com)
 
 ## Category: Artificial Intelligence
 

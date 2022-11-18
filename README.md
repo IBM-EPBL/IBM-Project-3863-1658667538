@@ -3,7 +3,7 @@
 
 # AI BASED DISCOURSE FOR BANKING INDUSTRY
 - [Demo Website Link](www.google.com)
-- [Demo Video Link]https://drive.google.com/file/d/1bkRl4ZKMqUIyh97l_fu624l7oqF6nA8W/view?usp=sharing)
+- [Demo Video Link](https://drive.google.com/file/d/1bkRl4ZKMqUIyh97l_fu624l7oqF6nA8W/view?usp=sharing)
 
 ## Category: Artificial Intelligence
 

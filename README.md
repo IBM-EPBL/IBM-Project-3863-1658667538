@@ -1,13 +1,13 @@
 
 # IBM-Project-3863-1658667538
 
-# <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="70px"> AI based discourse for Banking Industry <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif" width="60px"><br>Team ID:PNT2022TMID06863
+# AI BASED DISCOURSE FOR BANKING INDUSTRY
+<br>Team ID:PNT2022TMID06863
 
 <img src="https://tinypic.host/images/2022/11/05/download.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/tn-skill.jpg" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/nasscom.png" height="90px" width="100px">     <img src="https://media.giphy.com/media/8FlwO2t0cDh7RPyzUP/giphy.gif" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/download-1.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/ict.png" height ="90" width="100px"> <img src="https://tinypic.host/images/2022/11/05/smart-bridge.jpg" height ="90" width="100px"> 
 
 <h1>PROJECT DEMONSTRATION
 
-# AI BASED DISCOURSE FOR BANKING INDUSTRY
 - [Demo Website Link](www.google.com)
 - [Demo Video Link](https://drive.google.com/file/d/1bkRl4ZKMqUIyh97l_fu624l7oqF6nA8W/view?usp=sharing)
 
